@@ -1,0 +1,11 @@
+B003040020::DataStructure::HW8 (time: 3:0:29)
+	A: Insertion Sort	B: Quick Sort	C: Radix Sort
+100	0			0		0	sec(s)
+500	0			0		0	sec(s)
+1000	0			0		0	sec(s)
+5000	0			0		0	sec(s)
+10000	0			0		0	sec(s)
+50000	1			0		0	sec(s)
+100000	4			0		0	sec(s)
+500000	88			1		0	sec(s)
+all done in 106secs
