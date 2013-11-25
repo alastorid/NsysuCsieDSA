@@ -1,3 +1,0 @@
-console: CODE::BLOCKS
-gui: BCB
-2012.12.09 12:05
